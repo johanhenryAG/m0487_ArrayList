@@ -77,7 +77,10 @@ foreach($notas as $key => $valor) {
   }
 
  echo "<br><br><span style='font-weight: bold; font-size: 24px;'>Ejercicio 8</span><br><br>";
- echo"La nota mas alta es";
+ echo"La nota mas alta es ";
+ $mejorNota = max($notas);
+ $mejorAlumno = array_search()
+
 ?>
 
 </body>   
