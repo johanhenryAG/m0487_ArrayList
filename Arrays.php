@@ -39,7 +39,7 @@ echo "<br><span style='font-weight: bold; font-size: 24px;'>Ejercicio 3</span><b
 echo "<br><span style='font-weight: bold; font-size: 24px;'>Ejercicio 4</span><br><br>";
 
 
- $datos = array("nombre" => "Sara", "apellido" => "Martinez", "edad" => 24);
+ $datos = array("nombre" => "Johan", "apellido" => "Martinez", "edad" => 24);
  var_dump($datos);
 
 echo "<br><br><span style='font-weight: bold; font-size: 24px;'>Ejercicio 5</span><br><br>";
