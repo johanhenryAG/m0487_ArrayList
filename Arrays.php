@@ -80,7 +80,7 @@ foreach($notas as $key => $valor) {
  echo"La nota mas alta es ";
  $mejorNota = max($notas);
  $mejorAlumno = array_search($mejorNota,$notas);
-echo "La nota mas alta es $mejorNota y el mejor alumno es $mejorAlumno.";
+echo "La nota mas alta es $mejorNota y el mejor alumno es $mejorAlumno";
 
 ?>
 
